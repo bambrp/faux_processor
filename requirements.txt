@@ -1,0 +1,3 @@
+boto3
+requests
+ijson~=3.3.0
